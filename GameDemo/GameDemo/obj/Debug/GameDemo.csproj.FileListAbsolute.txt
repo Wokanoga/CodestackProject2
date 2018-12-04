@@ -1,0 +1,14 @@
+C:\Users\Code\source\repos\GameDemo\GameDemo\bin\Debug\GameDemo.exe.config
+C:\Users\Code\source\repos\GameDemo\GameDemo\bin\Debug\GameDemo.exe
+C:\Users\Code\source\repos\GameDemo\GameDemo\bin\Debug\GameDemo.pdb
+C:\Users\Code\source\repos\GameDemo\GameDemo\obj\Debug\GameDemo.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\GameDemo\GameDemo\obj\Debug\GameDemo.Form1.resources
+C:\Users\Code\source\repos\GameDemo\GameDemo\obj\Debug\GameDemo.Properties.Resources.resources
+C:\Users\Code\source\repos\GameDemo\GameDemo\obj\Debug\GameDemo.csproj.GenerateResource.cache
+C:\Users\Code\source\repos\GameDemo\GameDemo\obj\Debug\GameDemo.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\GameDemo\GameDemo\obj\Debug\GameDemo.exe
+C:\Users\Code\source\repos\GameDemo\GameDemo\obj\Debug\GameDemo.pdb
+C:\Users\Code\source\repos\GameDemo\GameDemo\bin\Debug\MetroFramework.Design.dll
+C:\Users\Code\source\repos\GameDemo\GameDemo\bin\Debug\MetroFramework.dll
+C:\Users\Code\source\repos\GameDemo\GameDemo\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Code\source\repos\GameDemo\GameDemo\obj\Debug\GameDemo.csproj.CopyComplete
