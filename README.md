@@ -1,6 +1,4 @@
 # CodestackProject2
-Aborto's Endeavor
+Waluigi's Revenge
 
-A story of the struggle and difficult choices of Aborto the Zombie.
-
-Aborto has killed a total of 18 men with his bare bearclaws.
+Waluigi exacts vengeance on Masahiro Sakurai for not including him in Smash Ultimate.
