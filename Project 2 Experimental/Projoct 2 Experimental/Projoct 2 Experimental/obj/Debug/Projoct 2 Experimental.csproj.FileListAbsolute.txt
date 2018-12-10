@@ -1,0 +1,31 @@
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\Projoct 2 Experimental.exe.config
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\Projoct 2 Experimental.exe
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\Projoct 2 Experimental.pdb
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\obj\Debug\Projoct 2 Experimental.csprojAssemblyReference.cache
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\obj\Debug\Projoct_2_Experimental.Properties.Resources.resources
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\obj\Debug\Projoct 2 Experimental.csproj.GenerateResource.cache
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\obj\Debug\Projoct 2 Experimental.csproj.CoreCompileInputs.cache
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\obj\Debug\Projoct 2 Experimental.exe
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\obj\Debug\Projoct 2 Experimental.pdb
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level1\FightAnUnderling.txt
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level1\GabeNewellLose.txt
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level1\GabeNewellWin.txt
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level1\GolfClub.txt
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level1\Intro.txt
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level1\JarJarBinksLose.txt
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level1\JarJarBinksWin.txt
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level1\PickAnUnderling.txt
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level1\Racquet.txt
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level1\ReggieFilsAimeLose.txt
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level1\ReggieFilsAimeWin.txt
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level1\SelectAWeapon.txt
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level2\BoardOfInterviewersFails.txt
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level2\BoardOfInterviewersSucceed.txt
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level2\Intro.txt
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level2\SelectBoardOrSPL.txt
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level2\SelectTobeyOrBoard.txt
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level2\SelectTobeyOrSPL.txt
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level2\SPLFail.txt
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level2\SPLSucceed.txt
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level2\TobeyFail.txt
+C:\Users\Code\Documents\Codestack\Projects\Project 2 Experimental\Projoct 2 Experimental\Projoct 2 Experimental\bin\Debug\TextFiles\Level2\TobeySucceed.txt
