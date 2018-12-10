@@ -1,0 +1,25 @@
+C:\Users\Code\source\repos\Project2\Project2\bin\Debug\My Forms\MainForm.cs
+C:\Users\Code\source\repos\Project2\Project2\bin\Debug\My Forms\MainForm.Designer.cs
+C:\Users\Code\source\repos\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\Code\source\repos\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\Code\source\repos\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\Code\source\repos\Project2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\Code\source\repos\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\Code\source\repos\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\Code\source\repos\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\Code\source\repos\Project2\Project2\obj\Debug\Project2.My_Forms.TitlePage.resources
+C:\Users\Code\source\repos\Project2\Project2\bin\Debug\MetroFramework.Design.dll
+C:\Users\Code\source\repos\Project2\Project2\bin\Debug\MetroFramework.dll
+C:\Users\Code\source\repos\Project2\Project2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Code\source\repos\Project2\Project2\obj\Debug\Project2.csproj.CopyComplete
+C:\Users\Code\source\repos\Project2\Project2\bin\Debug\Pictures\WAAAHH.png
+C:\Users\Code\source\repos\Project2\Project2\obj\Debug\Project2.MainForm.resources
+C:\Users\Code\source\repos\Project2\Project2\obj\Debug\Project2.My_Forms.ActualGame.resources
+C:\Users\Code\source\repos\Project2\Project2\bin\Debug\Sounds\TitleTheme.wav
+C:\Users\Code\source\repos\Project2\Project2\bin\Debug\Sounds\wah.wav
+C:\Users\Code\source\repos\Project2\Project2\obj\Debug\Project2.My_Forms.AboutUs.resources
+C:\Users\Code\source\repos\Project2\Project2\bin\Debug\Sounds\DeathTheme.wav
+C:\Users\Code\source\repos\Project2\Project2\bin\Debug\Pictures\DeathScreen.png
+C:\Users\Code\source\repos\Project2\Project2\obj\Debug\Project2.My_Forms.DeathScreen.resources
